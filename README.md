@@ -13,13 +13,12 @@
 To install the Pi Blockchain tools library,open the command-line program and execute the following command:
 <br>
 <ul>
-<li>sudo pip install blockchain<li>
+<li>sudo pip install blockchain</li>
 </ul>
 
 ### Basic code ###
 
 #!/usr/bin/python
-<br>
 #import blockchin library
 <br>
 from blockchain import statistics
